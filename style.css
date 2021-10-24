@@ -1,0 +1,156 @@
+.form h1{
+    text-align: center;
+    color: rgb(175, 216, 214);
+    }
+
+    .form h2{
+        text-align: center;
+        color:rgb(154, 212, 174);
+        }
+
+        p{
+            color: rgb(253, 201, 245);
+            text-align: center;
+        }
+  
+        td{
+            color: rgb(104, 245, 255);
+            text-align: center;
+        }
+
+        .form{
+            text-align: center;
+        }
+
+
+        label{
+            color: rgb(185, 240, 222);
+            text-align: center;
+        }
+
+        h3{
+            color:rgb(185, 240, 222)
+        }
+
+        p{
+            border: 1px solid rgb(110, 26, 26);
+            padding: 10px;
+        }
+
+        h2{
+            text-align: center;
+        }
+
+        .form1{
+            margin: auto;
+        } 
+
+        .form2{
+            text-align: center;
+        }
+
+                    td h2{
+                        color: rgb(0, 255, 170);
+                    }
+
+                    input, textarea {
+                        border: solid 1px #CCCCCC;
+                        margin-left: 10px;
+                        padding: 4px;
+                        outline: 0;
+                        font: Verdana, Geneva, sans-serif;
+                        width: 120px;
+                        background: #F9F9F9;
+                        -webkit-birder-radius: 4px;
+                        -moz-border-radius: 4px;
+                        border-radius: 10px;
+                        }
+
+                        input[type="submit"]:hover{ 
+                            outline: rgb(181, 255, 171) solid 5px; 
+                            border-radius: 20px; 
+                           }
+
+                           .ul { 
+                            position: relative; 
+                            background: #fff; 
+                            box-shadow: inset 0 0 10px #ccc; 
+                            position: sticky; 
+                            top: 0; 
+                            } 
+                            .top-menu:before, 
+                            .top-menu:after { 
+                            content: ""; 
+                            display: block; 
+                            height: 1px; 
+                            border-top: 3px solid #575350; 
+                            border-bottom: 1px solid #575350; 
+                            margin-bottom: 2px; 
+                            } 
+                            .top-menu:after { 
+                            border-bottom: 3px solid #575350; 
+                            border-top: 1px solid #575350; 
+                            box-shadow: 0 2px 7px #ccc; 
+                            margin-top: 2px; 
+                            } 
+                            .menu-main { 
+                            list-style: none; 
+                            padding: 0 30px; 
+                            margin: 0; 
+                            font-size: 18px; 
+                            text-align: center; 
+                            position: relative; 
+                            } 
+                            .menu-main:before, 
+                            .menu-main:after { 
+                            content: "\25C8"; 
+                            line-height: 1; 
+                            position: absolute; 
+                            top: 50%; 
+                            transform: translateY(-50%); 
+                            } 
+                            .menu-main:before {left: 15px;} 
+                            .menu-main:after {right: 15px;} 
+                            .menu-main li { 
+                            display: inline-block; 
+                            padding: 5px 0; 
+                            } 
+                            .menu-main a { 
+                            text-decoration: none; 
+                            display: inline-block; 
+                            margin: 2px 5px; 
+                            padding: 6px 15px; 
+                            font-family: 'PT Sans', sans-serif; 
+                            font-size: 16px; 
+                            color: #777777; 
+                            border-bottom: 1px solid transparent; 
+                            transition: .3s linear; 
+                            } 
+                            .menu-main .current, .menu-main a:hover { 
+                            border-radius: 3px; 
+                            background: #f3ece1; 
+                            color: #313131; 
+                            text-shadow: 0 1px 0 #fff; 
+                            border-color: #c6c6c6;
+                            }
+
+                            .pagination li:first-child a {
+                                border-top-left-radius: 5px;
+                                border-bottom-left-radius: 5px;
+                            }
+                            
+                            .pagination li:last-child a {
+                                border-top-right-radius: 5px;
+                                border-bottom-right-radius: 5px;
+                            }
+
+                           td h2{
+                               color:rgb(105, 221, 182);
+                           }
+
+
+
+
+
+
+                           
